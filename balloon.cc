@@ -139,7 +139,7 @@ int main() {
     cout << b.r << " " << b.x << " " << b.y << endl;
     sum += b.r * b.r;
   }
-  cout << "sum: " << sum << endl;
+  cout << "let's see sum: " << sum << endl;
   return 0;
 }
 
