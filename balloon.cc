@@ -72,7 +72,7 @@ double Solve(size_t num, vector<Balloon> &balloons) {
             now = {r, xbase-r, ybase};
             cout << now.r << " " << now.x << " " << now.y << endl;
           }
-          r *= 0.5;
+          r = 0.5;
         }
       }
 
